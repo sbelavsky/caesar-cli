@@ -1,0 +1,19 @@
+{
+  "name": "caesar-cli",
+  "version": "1.0.0",
+  "description": "Simple cli tool for caesar cypher encoding/decoding",
+  "main": "caesar-cli.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sbelavsky/caesar-cli.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sbelavsky/caesar-cli/issues"
+  },
+  "homepage": "https://github.com/sbelavsky/caesar-cli#readme",
+  "dependencies": {
+    "commander": "^6.1.0"
+  }
+}
