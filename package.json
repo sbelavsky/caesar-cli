@@ -2,7 +2,7 @@
   "name": "caesar-cli",
   "version": "1.0.0",
   "description": "Simple cli tool for caesar cypher encoding/decoding",
-  "main": "caesar-cli.js",
+  "main": "caesar-cli/caesar-cli.js",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/sbelavsky/caesar-cli.git"
